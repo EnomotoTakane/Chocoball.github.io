@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Chocoball.github.io</id>
+    <title>Chocoball的小黑屋</title>
+    <updated>2021-05-25T13:03:36.206Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Chocoball.github.io"/>
+    <link rel="self" href="https://Chocoball.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://Chocoball.github.io/images/avatar.png</logo>
+    <icon>https://Chocoball.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Chocoball的小黑屋</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一篇博客]]></title>
+        <id>https://Chocoball.github.io/post/hello-gridea/</id>
+        <link href="https://Chocoball.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到我的个人博客<br>
+这里会主要记录一些我的作品、笔记、知识以及一些生活和心情...  以及我不是一个很擅长文字写作的人，请大家多多担待</p>
+]]></content>
+    </entry>
+</feed>
